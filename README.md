@@ -5,4 +5,4 @@ This Excel application is used to find the optimal fantasy baseball lineup for Y
 	a. Maximum Salary
 	b. Included/Excluded players
 2. The source data is from RotoGuru.net and is updated every time you run the application. The link is in A1, do not change this link without changing the code.
-
+3. In the offseason, you can use Sample Data to still run the application effectively.
